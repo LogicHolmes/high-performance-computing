@@ -18,7 +18,18 @@ Dependence:
 -----
 ![](https://github.com/LogicHolmes/high-performance-computing/blob/master/img/1.png)
 
+院士年龄分布柱状图
+-----
 ![](https://github.com/LogicHolmes/high-performance-computing/blob/master/img/2.png)
+
+院士年龄分布饼状图
+------
 ![](https://github.com/LogicHolmes/high-performance-computing/blob/master/img/3.png)
+
+院士专业分布
+------
 ![](https://github.com/LogicHolmes/high-performance-computing/blob/master/img/4.png)
+
+院士出生地与工作地空间联系
+-------
 ![](https://github.com/LogicHolmes/high-performance-computing/blob/master/img/5.png)
