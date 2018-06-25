@@ -1,7 +1,7 @@
 # high-performance-computing(第一组)
 中科院院士空间地理信息
 ====
-Group Member: 王思吉、田明、杨帆、杜英军、张健
+Group Member: 王思吉、田明、杨帆、杜英军、张健、吴一炯
 
 Dependence:
 [Pyecharts](http://pyecharts.org/#/)
